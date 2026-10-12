@@ -1,4 +1,7 @@
-# PLAVIO
+<h1 style="text-align: left; display: flex;">
+  <img src="https://raw.githubusercontent.com/Melikash98/PLAVIO/main/plavio-official-logo.png" alt="Logo" width="80px"   height="80px" style="margin-right: 10px;padding-top: 6rem;" />
+PLAVIO
+</h1>
 
 
 ## Technology Stack
