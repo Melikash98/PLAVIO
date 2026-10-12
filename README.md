@@ -1,5 +1,30 @@
 # PLAVIO
 
+### Android Application
+[![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
+[![Java](https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![XML](https://img.shields.io/badge/UI-XML-FF7043?style=for-the-badge&logo=xml&logoColor=white)](https://developer.android.com/)
+[![MVVM](https://img.shields.io/badge/Architecture-MVVM-536DFE?style=for-the-badge)](https://developer.android.com/topic/architecture)
+[![Retrofit](https://img.shields.io/badge/Networking-Retrofit-9C27B0?style=for-the-badge)](https://github.com/square/retrofit)
+[![OkHttp](https://img.shields.io/badge/HTTP_Client-OkHttp-FF9800?style=for-the-badge)](https://github.com/square/okhttp)
+[![Room](https://img.shields.io/badge/Local_Database-Room-795548?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/training/data-storage/room)
+[![Glide](https://img.shields.io/badge/Image_Loading-Glide-00BCD4?style=for-the-badge)](https://github.com/bumptech/glide)
+### Backend
+[![Java 21](https://img.shields.io/badge/Backend_Language-Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Framework-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Spring Security](https://img.shields.io/badge/Security-Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)](https://spring.io/projects/spring-security)
+[![Spring Data JPA](https://img.shields.io/badge/Data_Access-Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-data-jpa)
+[![REST API](https://img.shields.io/badge/API-REST-0288D1?style=for-the-badge)](https://restfulapi.net/)
+[![Maven](https://img.shields.io/badge/Build-Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
+### Data Storage
+[![PostgreSQL](https://img.shields.io/badge/Server_Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Room](https://img.shields.io/badge/Local_Storage-Room-795548?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/training/data-storage/room)
+### Development
+[![Gradle](https://img.shields.io/badge/Android_Build-Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/)
+[![Git](https://img.shields.io/badge/Version_Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Melikash98/PLAVIO)
+
+
 **Property discovery and booking-request application**  
 *Native Android · Java · Spring Boot REST API · PostgreSQL · Room*
 
